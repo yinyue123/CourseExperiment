@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "equation.pbt";
+@end;
+DefaultTarget "equation.pbt";
+DefaultRemoteTarget "equation.pbt";
