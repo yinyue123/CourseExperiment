@@ -1,0 +1,23 @@
+[root@VM_21_212_centos 2.1]# vim recv.c 
+[root@VM_21_212_centos 2.1]# gcc recv.c
+[root@VM_21_212_centos 2.1]# ./a.out s 8080
+Using recvlen:
+recv:test
+send:echo:test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
